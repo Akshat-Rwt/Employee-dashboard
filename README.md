@@ -34,3 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+# DashBoard 
+![](https://github.com/Akshat-Rwt/Employee-dashboard/blob/main/Dashboard%20.png)
+
+# The main file is in the app folder there is a file which name is page.js in that you will get the react code of mine and in the global css you get the css code you run it oj your pc but for that you can downlaod nextjs and then you can create-react-app on it and after that when you created then you can put my code in that . Because in this i cannot upload all the files because of high storage .
